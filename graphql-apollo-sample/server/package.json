@@ -1,0 +1,11 @@
+{
+  "name": "graphql-server",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.0.0-rc.6",
+    "graphql": "^0.13.2"
+  },
+  "scripts": {
+    "start": "node server"
+  }
+}
